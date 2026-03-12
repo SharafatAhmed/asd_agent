@@ -1,0 +1,10 @@
+streamlit
+langchain
+langgraph
+langchain-groq
+transformers
+torch
+scikit-learn
+xgboost
+numpy
+python-dotenv
